@@ -1,0 +1,73 @@
+body {
+   background-color: grey;
+   margin: 20px;
+}
+
+.container {
+   height: 33vh;
+   width: auto;
+   border: 10px solid;
+   background: white;
+   margin: 15px auto;
+   position: relative; 
+}
+
+#shape1 {
+   background: orange;
+   width: 40px;
+   height: 100px; 
+   display: inline-block;
+   position: absolute;
+   bottom: 4%;
+   left: 1%;
+}
+
+#shape2 {
+   background: tan;
+   width: 300px;
+   height: 150px; 
+   display: inline-block;
+   position: absolute;
+   bottom: 15%;
+   left: 15%;
+}
+
+#shape3 {
+   background: olive;
+   border-radius: 50%;
+   width: 175px;
+   height: 175px; 
+   display: inline-block;
+   position: absolute;
+   bottom: 15%;
+   left: 60%;
+}
+
+#body {
+   border: 5px dashed;
+}
+
+#shape4 {
+   background: indianred;
+   width: 75%;
+   height: 75%; 
+   display: inline-block;
+   position: absolute;
+   top: 12.5%;
+   left: 12.5%; 
+}
+
+#footer{
+   border: 10px solid;
+   border-style: outset;
+
+
+}
+
+#text {
+   position: absolute;
+   /* left: 45%;
+   top: 25%;*/
+   width: 100%;
+   text-align: center;
+}
