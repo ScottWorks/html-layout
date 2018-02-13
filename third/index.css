@@ -1,0 +1,64 @@
+
+body{
+   margin: 0;
+}
+
+
+
+.container{
+   width: auto;
+   background: grey;
+   position: relative;
+   padding: 0;
+}
+
+#header{
+   height: 20vh; 
+}
+
+#shape1 {
+   background: blue;
+   border-radius: 50%;
+   width: 75px;
+   height: 75px; 
+   display: inline-block;
+   position: absolute;
+   bottom: 30%;
+   left: 5%;
+}
+
+#body{
+   height: 80vh;
+}
+
+.elem{
+   background: red;
+   height: 33%;
+   width: 100%;
+}
+
+#speech-text{
+   display: inline;
+}
+
+p{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 15px;
+   text-align: justify;
+   margin: 0;   
+   padding: 25px;
+   background: white;
+}
+
+#color-block1{
+   background: red;
+}
+
+#color-block2{
+   background: black;
+
+}
+
+#color-block3{
+   background: green;
+}
