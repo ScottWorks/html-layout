@@ -1,0 +1,26 @@
+
+body {
+   margin: 0;
+   background-color: powderblue;
+}
+
+.top {
+   background-color: blue;
+   height: 20vh;
+   width: 100vw;
+}
+
+.center {
+   background-color: lightcoral;
+   height: 70vh;
+   width: 75vw;
+   margin: auto;
+}
+
+.bottom {
+   background-color: aliceblue;
+   height: 10vh;
+   width: 75vw;
+   margin: auto;
+}
+
